@@ -37,6 +37,13 @@ Soy un **Desarrollador Fullstack** apasionado por la creación de aplicaciones w
 - **LinkedIn:** [linkedin.com/in/rubén-fernández-50a263343](linkedin.com/in/rubén-fernández-50a263343)
 
 ---
+## 💡 ¿Por qué trabajar conmigo?
 
-Me considero una persona dinámica, adaptable y con una gran pasión por el aprendizaje continuo. Siempre estoy en busca de nuevas oportunidades para aplicar mis conocimientos y colaborar en proyectos innovadores que generen un impacto positivo.
-¡Hablemos! Estoy abierto a desafíos y a colaborar en proyectos interesantes.
+Soy una persona **proactiva**, con una destacada capacidad de **adaptación** a diferentes entornos y retos. Mi enfoque está en la **mejora constante**, buscando siempre soluciones eficaces e innovadoras. Estoy motivado por la posibilidad de **aprender continuamente** y de aplicar mis habilidades para contribuir al éxito de los proyectos y al crecimiento del equipo.
+
+Estoy en búsqueda de **nuevos desafíos** que me permitan crecer profesionalmente y marcar la diferencia con mi trabajo.
+
+---
+
+¡Hablemos! Estoy abierto a colaborar en proyectos interesantes y a explorar nuevas oportunidades.
+
