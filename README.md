@@ -34,7 +34,7 @@ Soy un **Desarrollador Fullstack** apasionado por la creación de aplicaciones w
 
 ## 📫 Cómo contactarme:
 - **Email:** [rfp1712@gmail.com](mailto:rfp1712@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/rubén-fernández-50a263343](www.linkedin.com/in/rubén-fernández-50a263343)
+- **LinkedIn:** [linkedin.com/in/rubén-fernández-50a263343](linkedin.com/in/rubén-fernández-50a263343)
 
 ---
 
