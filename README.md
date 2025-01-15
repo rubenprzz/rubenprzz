@@ -6,16 +6,16 @@ Soy un **Desarrollador Fullstack** apasionado por la creación de aplicaciones w
 
 ## 🚀 Tecnologías que uso:
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla, Angular, TypeScript), TailwindCSS, Angular Material
-- **Backend:** Java, Spring Boot, Django REST Framework, Node.js, NestJS, PHP (Laravel)
+- **Backend:** Java, Spring Boot, C#, .NET REST Framework, Node.js, NestJS, PHP (Laravel)
 - **Bases de Datos:** PostgreSQL, MongoDB, MySQL
-- **DevOps:** Docker, Docker Compose, Railway, Render, Netlify
+- **DevOps:** Docker, Docker Compose, Netlify
 - **Herramientas:** Git, GitHub, Adminer, JWT
 
 ---
 
 ## 🏆 Proyectos Destacados:
 ### **Gestor Escolar**
-- **Descripción:** Plataforma para la gestión académica que permite a profesores y administradores manejar estudiantes, asignaturas y asistencias. Los alumnos pueden consultar sus notas y asistencias desde una aplicación dedicada.
+- **Descripción:** Plataforma para la gestión académica que permite a profesores y administradores manejar estudiantes, asignaturas y asistencias, implementando la seguridad con JWT
 - **Tecnologías:** Angular, Django REST Framework, Docker, PostgreSQL, JWT
 
 ### **MADMOTOR**
@@ -26,17 +26,17 @@ Soy un **Desarrollador Fullstack** apasionado por la creación de aplicaciones w
 
 ## 🌱 Actualmente aprendiendo:
 - React.js
-- Kubernetes
-- Desarrollo móvil con Flutter
+- Express.js
+- Astro
+- React
 
 ---
 
 ## 📫 Cómo contactarme:
-- **Email:** [ruben.fernandez@example.com](mailto:ruben.fernandez@example.com)
-- **LinkedIn:** [linkedin.com/in/ruben-fernandez](https://linkedin.com/in/ruben-fernandez)
-- **Portfolio:** [ruben-fernandez.dev](https://ruben-fernandez.dev)
+- **Email:** [ruben.fernandez@example.com](mailto:rfp1712@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ruben-fernandez](www.linkedin.com/in/rubén-fernández-50a263343)
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀  
-Siempre estoy abierto a colaborar en proyectos interesantes o discutir nuevas ideas.
+Me considero una persona dinámica, adaptable y con una gran pasión por el aprendizaje continuo. Siempre estoy en busca de nuevas oportunidades para aplicar mis conocimientos y colaborar en proyectos innovadores que generen un impacto positivo.
+¡Hablemos! Estoy abierto a desafíos y a colaborar en proyectos interesantes.
