@@ -16,7 +16,7 @@ Soy un **Desarrollador Fullstack** apasionado por la creación de aplicaciones w
 ## 🏆 Proyectos Destacados:
 ### **Gestor Escolar**
 - **Descripción:** Plataforma para la gestión académica que permite a profesores y administradores manejar estudiantes, asignaturas y asistencias, implementando la seguridad con JWT
-- **Tecnologías:** Angular, Django REST Framework, Docker, PostgreSQL, JWT
+- **Tecnologías:** Angular, C# , Docker, PostgreSQL, JWT
 
 ### **MADMOTOR**
 - **Descripción:** Sistema para la gestión de concesionarios de vehículos, implementado con Spring Boot, NestJS y Laravel, explorando cómo migrar proyectos entre diferentes tecnologías.
