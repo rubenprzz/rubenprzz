@@ -26,9 +26,8 @@ Soy un **Desarrollador Fullstack** apasionado por la creación de aplicaciones w
 
 ## 🛠️ Actualmente aprendiendo:
 - React.js
-- Express.js
-- Astro
-- React
+- Python
+
 
 ---
 
